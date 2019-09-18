@@ -1,7 +1,7 @@
 Sardegna Clima APP DEMO
 ======================
 
-#Introduction
+# Introduction
 
 Demo live of Sardegna Clima application.
 
