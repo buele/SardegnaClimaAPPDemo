@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568786266915,
+  "timestamp": 1568786651625,
   "index": "https://buele.github.io/SardegnaClimaAPPDemo/index.html",
   "assetGroups": [
     {
@@ -35,8 +35,8 @@
         "https://buele.github.io/SardegnaClimaAPPDemo/11-es2015.0ab0b3e40123fb997f1f.js",
         "https://buele.github.io/SardegnaClimaAPPDemo/11-es5.666ec6b296b16eb0e6b0.js",
         "https://buele.github.io/SardegnaClimaAPPDemo/110-es2015.22abc99a13100b1f8b42.js",
-        "https://buele.github.io/SardegnaClimaAPPDemo/14-es5.462675d3c8aaba91f73c.js",
-        "https://buele.github.io/SardegnaClimaAPPDemo/15-es2015.bde21df4108bf6789e31.js",
+        "https://buele.github.io/SardegnaClimaAPPDemo/14-es5.a8d871c520cf396f297f.js",
+        "https://buele.github.io/SardegnaClimaAPPDemo/15-es2015.1d0d7996a0bf2c973b67.js",
         "https://buele.github.io/SardegnaClimaAPPDemo/15-es5.da626c65559b280cd880.js",
         "https://buele.github.io/SardegnaClimaAPPDemo/16-es2015.b7845c5556caf58703e0.js",
         "https://buele.github.io/SardegnaClimaAPPDemo/16-es5.9a51e5c9234e00e3bf14.js",
@@ -227,8 +227,8 @@
         "https://buele.github.io/SardegnaClimaAPPDemo/main-es5.8257e1d0b46bdb985667.js",
         "https://buele.github.io/SardegnaClimaAPPDemo/polyfills-es2015.e844e5874c758b270fb1.js",
         "https://buele.github.io/SardegnaClimaAPPDemo/polyfills-es5.4488731b3c4912ca7d3e.js",
-        "https://buele.github.io/SardegnaClimaAPPDemo/runtime-es2015.21c580b5c0f844b737a6.js",
-        "https://buele.github.io/SardegnaClimaAPPDemo/runtime-es5.9f4627a4f43564655468.js",
+        "https://buele.github.io/SardegnaClimaAPPDemo/runtime-es2015.7bbbcbf12b2f07a4af70.js",
+        "https://buele.github.io/SardegnaClimaAPPDemo/runtime-es5.fa105b45e8e039ad3931.js",
         "https://buele.github.io/SardegnaClimaAPPDemo/styles.1747f1780c7b5f044edc.css"
       ],
       "patterns": []
@@ -292,8 +292,8 @@
     "https://buele.github.io/SardegnaClimaAPPDemo/11-es2015.0ab0b3e40123fb997f1f.js": "57c700ae818786f5853e2331a88791299defc368",
     "https://buele.github.io/SardegnaClimaAPPDemo/11-es5.666ec6b296b16eb0e6b0.js": "6e2765540a09eaad6e06b589d35b95e65fbd13bd",
     "https://buele.github.io/SardegnaClimaAPPDemo/110-es2015.22abc99a13100b1f8b42.js": "d787e43b4f7876b1fd83bbb053e6ff608e8ba1dc",
-    "https://buele.github.io/SardegnaClimaAPPDemo/14-es5.462675d3c8aaba91f73c.js": "0481bf29ed5d8895345bb3766faa5ca935353b3a",
-    "https://buele.github.io/SardegnaClimaAPPDemo/15-es2015.bde21df4108bf6789e31.js": "84b435d4912c5d4ea363ba6952427ba3f6a3092b",
+    "https://buele.github.io/SardegnaClimaAPPDemo/14-es5.a8d871c520cf396f297f.js": "7d3cd445ac0042511ce38459238b6982dce11caa",
+    "https://buele.github.io/SardegnaClimaAPPDemo/15-es2015.1d0d7996a0bf2c973b67.js": "d36dcfddb30c4ad6cf95a979b16156e16ae83109",
     "https://buele.github.io/SardegnaClimaAPPDemo/15-es5.da626c65559b280cd880.js": "14c64e48acbf08928bd4e81d38779b2fbf50b5b6",
     "https://buele.github.io/SardegnaClimaAPPDemo/16-es2015.b7845c5556caf58703e0.js": "498917581052a9a16010f1eec60dce5ba43ff98e",
     "https://buele.github.io/SardegnaClimaAPPDemo/16-es5.9a51e5c9234e00e3bf14.js": "cd16d174e6da7aa8bbffe74d3a198e2424bcdd8a",
@@ -500,13 +500,13 @@
     "https://buele.github.io/SardegnaClimaAPPDemo/assets/img/speakers/turtle.jpg": "8bf240a802062bf0ee3c1b31ff12cd9158b5734e",
     "https://buele.github.io/SardegnaClimaAPPDemo/common-es2015.b116eb777239a27876f6.js": "0e58fb8fd324c9675afa1000f77325de00e98e08",
     "https://buele.github.io/SardegnaClimaAPPDemo/common-es5.102d029e02c9393163cd.js": "897ebef98050d044e5257f1422aa1417a64c9bef",
-    "https://buele.github.io/SardegnaClimaAPPDemo/index.html": "12e201dc4f37e07c4aea2e580a647d9fee94f36b",
+    "https://buele.github.io/SardegnaClimaAPPDemo/index.html": "9c238d2c4465dd1ac029729aed2f5ad1d49d6ce1",
     "https://buele.github.io/SardegnaClimaAPPDemo/main-es2015.bded13db657c7c0f9442.js": "e5a045ec2679c0872f265e380facd942c5e55c5a",
     "https://buele.github.io/SardegnaClimaAPPDemo/main-es5.8257e1d0b46bdb985667.js": "477e94031f4f904e017a1c5bb8d48de88679be17",
     "https://buele.github.io/SardegnaClimaAPPDemo/polyfills-es2015.e844e5874c758b270fb1.js": "277f044e63043566647afdd3895013b3cbe23621",
     "https://buele.github.io/SardegnaClimaAPPDemo/polyfills-es5.4488731b3c4912ca7d3e.js": "c64f0317737c44a541bf015ac0fc5953935cb693",
-    "https://buele.github.io/SardegnaClimaAPPDemo/runtime-es2015.21c580b5c0f844b737a6.js": "eaec0f67cd76e1d7ea5c23df6b7a066a039c3c8c",
-    "https://buele.github.io/SardegnaClimaAPPDemo/runtime-es5.9f4627a4f43564655468.js": "bbf1ad83d7070578265a0c73bac0f25118abb032",
+    "https://buele.github.io/SardegnaClimaAPPDemo/runtime-es2015.7bbbcbf12b2f07a4af70.js": "788d2e6a83a8528278836a80242c3a0c3fb33b4c",
+    "https://buele.github.io/SardegnaClimaAPPDemo/runtime-es5.fa105b45e8e039ad3931.js": "edb21ba42c5af9de6e221eb22bc98c39b2bc805f",
     "https://buele.github.io/SardegnaClimaAPPDemo/styles.1747f1780c7b5f044edc.css": "62a92addca27ccd59ecfbbd74e979161de3c8a8a"
   },
   "navigationUrls": [
