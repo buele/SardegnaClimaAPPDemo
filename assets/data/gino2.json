@@ -1,0 +1,1692 @@
+[{
+	"id": 1,
+	"name": "Iglesias-Asproni (CA)",
+	"latitude": 39.3079,
+	"longitude": 8.5523,
+	"quota": "177",
+	"measure": {
+		"temp": 11.6,
+		"date": "2020-04-01 20:49:00",
+		"tempmax": 15.6,
+		"tempmin": 10.3,
+		"hum": 74,
+		"dp": 7.2,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 3.2,
+		"dir": 90,
+		"bar": 1016.6
+	}
+}, {
+	"id": 2,
+	"name": "Asuni (OR)",
+	"latitude": 39.8723,
+	"longitude": 8.9468,
+	"quota": "233",
+	"measure": {
+		"temp": 11.8,
+		"date": "2020-04-01 20:49:42",
+		"tempmax": 16.1,
+		"tempmin": 11.8,
+		"hum": 61,
+		"dp": 4.5,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 6,
+		"dir": "163",
+		"bar": 1014.5
+	}
+}, {
+	"id": 3,
+	"name": "Desulo (NU)",
+	"latitude": 40.0157,
+	"longitude": 9.2311,
+	"quota": "945",
+	"measure": {
+		"temp": 7,
+		"date": "2020-04-01 20:49:36",
+		"tempmax": 13.8,
+		"tempmin": 3.6,
+		"hum": 79,
+		"dp": 3.6,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 1,
+		"dir": "357",
+		"bar": 1016
+	}
+}, {
+	"id": 5,
+	"name": "Ollolai (NU)",
+	"latitude": 40.1686,
+	"longitude": 9.1798,
+	"quota": "950",
+	"measure": {
+		"temp": 3.6,
+		"date": "2020-04-01 20:46:00",
+		"tempmax": 5.7,
+		"tempmin": 3.6,
+		"hum": 68,
+		"dp": -1.7,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 1.6,
+		"dir": 45,
+		"bar": 1014.4
+	}
+}, {
+	"id": 6,
+	"name": "Ozieri (SS)",
+	"latitude": 40.58427,
+	"longitude": 9.0077,
+	"quota": "452",
+	"measure": {
+		"temp": 6.5,
+		"date": "2020-04-01 20:49:57",
+		"tempmax": 11.9,
+		"tempmin": 4.4,
+		"hum": 55,
+		"dp": -1.9,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 1.3,
+		"dir": "113.0",
+		"bar": 1014.2
+	}
+}, {
+	"id": 8,
+	"name": "Oristano",
+	"latitude": 39.9118,
+	"longitude": 8.5931,
+	"quota": "10",
+	"measure": {
+		"temp": 12.2,
+		"date": "2020-04-01 20:48:28",
+		"tempmax": 16.3,
+		"tempmin": 8.8,
+		"hum": 53,
+		"dp": 2.9,
+		"rain": 0.6,
+		"rainrate": 0,
+		"wspeed": 3,
+		"dir": "359",
+		"bar": 1013.6
+	}
+}, {
+	"id": 10,
+	"name": "Laconi (NU)",
+	"latitude": 39.8537,
+	"longitude": 9.0513,
+	"quota": "512",
+	"measure": {
+		"temp": 7.9,
+		"date": "2020-04-01 20:49:49",
+		"tempmax": 13.7,
+		"tempmin": 6.6,
+		"hum": 72,
+		"dp": 3.2,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": "187.0",
+		"bar": 1014.6
+	}
+}, {
+	"id": 12,
+	"name": "Sinnai (CA)",
+	"latitude": 39.3081,
+	"longitude": 9.2001,
+	"quota": "133",
+	"measure": {
+		"temp": 10.2,
+		"date": "2020-04-01 20:49:00",
+		"tempmax": 17.5,
+		"tempmin": 10.2,
+		"hum": 66,
+		"dp": 4.1,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 1.6,
+		"dir": 45,
+		"bar": 1014.8
+	}
+}, {
+	"id": 13,
+	"name": "Borore (NU)",
+	"latitude": 40.22,
+	"longitude": 8.8084,
+	"quota": "400",
+	"measure": {
+		"temp": 7.1,
+		"date": "2020-04-01 20:49:58",
+		"tempmax": 11.8,
+		"tempmin": 5,
+		"hum": 61,
+		"dp": 0,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 18,
+		"dir": "53",
+		"bar": 1014.7
+	}
+}, {
+	"id": 15,
+	"name": "Chia (CA)",
+	"latitude": 38.9031,
+	"longitude": 8.8894,
+	"quota": "55",
+	"measure": {
+		"temp": -0.2,
+		"date": "2020-04-01 20:49:58",
+		"tempmax": -14.6,
+		"tempmin": -11.2,
+		"hum": 100,
+		"dp": -25,
+		"rain": 4001.3,
+		"rainrate": 160,
+		"wspeed": 120,
+		"dir": "92",
+		"bar": 1014.3
+	}
+}, {
+	"id": 16,
+	"name": null,
+	"latitude": 40.7667,
+	"longitude": 9.5515,
+	"quota": "150",
+	"measure": {
+		"temp": 4.9,
+		"date": "2020-04-01 20:49:00",
+		"tempmax": 12.3,
+		"tempmin": 3.8,
+		"hum": 76,
+		"dp": 1,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": "20.9",
+		"bar": 1017.5
+	}
+}, {
+	"id": 17,
+	"name": "Su Filariu (NU)",
+	"latitude": 40.0251,
+	"longitude": 9.2722,
+	"quota": "1370",
+	"measure": {
+		"temp": 5.1,
+		"date": "2020-04-01 20:49:58",
+		"tempmax": 8.8,
+		"tempmin": 0.7,
+		"hum": 78,
+		"dp": 1.7,
+		"rain": 0.4,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 16,
+		"bar": 1025.5
+	}
+}, {
+	"id": 23,
+	"name": "Bonorva (SS)",
+	"latitude": 40.4187,
+	"longitude": 8.7681,
+	"quota": "471",
+	"measure": {
+		"temp": 6.9,
+		"date": "2020-04-01 20:46:00",
+		"tempmax": 14.2,
+		"tempmin": 4.2,
+		"hum": 61,
+		"dp": -0.1,
+		"rain": 0,
+		"rainrate": null,
+		"wspeed": 3.2,
+		"dir": 67.5,
+		"bar": 1014.7
+	}
+}, {
+	"id": 24,
+	"name": "Sadali (NU)",
+	"latitude": 39.8112,
+	"longitude": 9.273,
+	"quota": "763",
+	"measure": {
+		"temp": 4.6,
+		"date": "2020-04-01 20:45:00",
+		"tempmax": 12.4,
+		"tempmin": 3.1,
+		"hum": 75,
+		"dp": 0.6,
+		"rain": 0.4,
+		"rainrate": null,
+		"wspeed": 8,
+		"dir": 90,
+		"bar": 1014.7
+	}
+}, {
+	"id": 25,
+	"name": "Barbusi (CA)",
+	"latitude": 39.201,
+	"longitude": 8.5065,
+	"quota": "122",
+	"measure": {
+		"temp": 11.7,
+		"date": "2020-04-01 20:49:07",
+		"tempmax": 17.1,
+		"tempmin": 10.7,
+		"hum": 78,
+		"dp": 7.8,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 15,
+		"bar": 1013.1
+	}
+}, {
+	"id": 26,
+	"name": "Orosei (NU)",
+	"latitude": 40.383,
+	"longitude": 9.69,
+	"quota": "20",
+	"measure": {
+		"temp": 9.1,
+		"date": "2020-04-01 20:49:58",
+		"tempmax": 13,
+		"tempmin": 8.1,
+		"hum": 58,
+		"dp": 1.2,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0.1,
+		"dir": "340",
+		"bar": 1016.15
+	}
+}, {
+	"id": 32,
+	"name": "Valledoria (SS)",
+	"latitude": 40.915,
+	"longitude": 8.78,
+	"quota": "40",
+	"measure": {
+		"temp": 9.8,
+		"date": "2020-04-01 20:49:29",
+		"tempmax": 14.6,
+		"tempmin": 7.9,
+		"hum": 40,
+		"dp": -3.2,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 4.9,
+		"dir": "318.0",
+		"bar": 1015.3
+	}
+}, {
+	"id": 33,
+	"name": "Villasalto (CA)",
+	"latitude": 39.4938,
+	"longitude": 9.3885,
+	"quota": "520",
+	"measure": {
+		"temp": 5.6,
+		"date": "2020-04-01 20:50:05",
+		"tempmax": 10.6,
+		"tempmin": 5,
+		"hum": 74,
+		"dp": 1.1,
+		"rain": 1.4,
+		"rainrate": 0,
+		"wspeed": 4.8,
+		"dir": 134,
+		"bar": 1014.1
+	}
+}, {
+	"id": 34,
+	"name": "Monteponi (CA)",
+	"latitude": 39.3052,
+	"longitude": 8.523,
+	"quota": "190",
+	"measure": {
+		"temp": 11.1,
+		"date": "2020-04-01 20:50:02",
+		"tempmax": 17.1,
+		"tempmin": 9.9,
+		"hum": 73,
+		"dp": 6.4,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0.4,
+		"dir": "73.0",
+		"bar": 1015.8
+	}
+}, {
+	"id": 35,
+	"name": "Barisardo (NU)",
+	"latitude": 39.8455,
+	"longitude": 9.6433,
+	"quota": "70",
+	"measure": {
+		"temp": 9.4,
+		"date": "2020-04-01 20:50:07",
+		"tempmax": 12,
+		"tempmin": 8.2,
+		"hum": 61,
+		"dp": 2.3,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 1.5,
+		"dir": "NE",
+		"bar": 1018.5
+	}
+}, {
+	"id": 36,
+	"name": "P.ta Modighina (OR)",
+	"latitude": 39.8875,
+	"longitude": 8.9742,
+	"quota": "600",
+	"measure": {
+		"temp": 8.1,
+		"date": "2020-04-01 20:50:06",
+		"tempmax": 13.4,
+		"tempmin": 5.9,
+		"hum": 71,
+		"dp": 3.3,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 6.4,
+		"dir": 196,
+		"bar": 1015.2
+	}
+}, {
+	"id": 37,
+	"name": "Padru (SS)",
+	"latitude": 40.766,
+	"longitude": 9.5213,
+	"quota": "164",
+	"measure": {
+		"temp": 7.2,
+		"date": "2020-04-01 20:42:30",
+		"tempmax": 11.1,
+		"tempmin": 6.9,
+		"hum": 68,
+		"dp": 1.7,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 1.6,
+		"dir": 284,
+		"bar": 1017
+	}
+}, {
+	"id": 39,
+	"name": "Capoterra (CA)",
+	"latitude": 39.1597,
+	"longitude": 9.0115,
+	"quota": "10",
+	"measure": {
+		"temp": 11.7,
+		"date": "2020-04-01 20:49:46",
+		"tempmax": 15.6,
+		"tempmin": 11.3,
+		"hum": 71,
+		"dp": 6.7,
+		"rain": 0.8,
+		"rainrate": 0,
+		"wspeed": 3.2,
+		"dir": 137,
+		"bar": 1015.8
+	}
+}, {
+	"id": 40,
+	"name": "Villanovatulo (NU)",
+	"latitude": 39.784,
+	"longitude": 9.2119,
+	"quota": "590",
+	"measure": {
+		"temp": 5.6,
+		"date": "2020-04-01 20:49:00",
+		"tempmax": 13.3,
+		"tempmin": 5,
+		"hum": 74,
+		"dp": 1.3,
+		"rain": 0.8,
+		"rainrate": 0,
+		"wspeed": 1.6,
+		"dir": 112.5,
+		"bar": 1014.4
+	}
+}, {
+	"id": 41,
+	"name": "Goni (CA)",
+	"latitude": 39.578147,
+	"longitude": 9.284253,
+	"quota": "402",
+	"measure": {
+		"temp": 6.4,
+		"date": "2020-04-01 20:49:15",
+		"tempmax": 11.8,
+		"tempmin": 6,
+		"hum": 73,
+		"dp": 1.7,
+		"rain": 0.8,
+		"rainrate": 0,
+		"wspeed": 3.2,
+		"dir": 123,
+		"bar": 1031.4
+	}
+}, {
+	"id": 42,
+	"name": "Monte Arci (OR)",
+	"latitude": 39.8195,
+	"longitude": 8.7764,
+	"quota": "550",
+	"measure": {
+		"temp": 8.1,
+		"date": "2020-04-01 20:43:23",
+		"tempmax": 15.5,
+		"tempmin": 5.6,
+		"hum": 66,
+		"dp": 2.2,
+		"rain": 1,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 231,
+		"bar": 1014.3
+	}
+}, {
+	"id": 43,
+	"name": "Calangianus (SS)",
+	"latitude": 40.92,
+	"longitude": 9.1952,
+	"quota": "490",
+	"measure": {
+		"temp": 4.9,
+		"date": "2020-04-01 20:49:54",
+		"tempmax": 9.3,
+		"tempmin": 3.8,
+		"hum": 65,
+		"dp": -1.1,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 138,
+		"bar": 1015.5
+	}
+}, {
+	"id": 44,
+	"name": "Macchiareddu (CA)",
+	"latitude": 39.2325,
+	"longitude": 8.9741,
+	"quota": "10",
+	"measure": {
+		"temp": 11.7,
+		"date": "2020-04-01 20:49:37",
+		"tempmax": 17.5,
+		"tempmin": 11.2,
+		"hum": 68,
+		"dp": 6.1,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 8,
+		"dir": 113,
+		"bar": 1011.1
+	}
+}, {
+	"id": 45,
+	"name": "Tonara (NU)",
+	"latitude": 40.0209,
+	"longitude": 9.1672,
+	"quota": "910",
+	"measure": {
+		"temp": 5.8,
+		"date": "2020-04-01 20:43:00",
+		"tempmax": 11.8,
+		"tempmin": 2.2,
+		"hum": null,
+		"dp": null,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 315,
+		"bar": 1014.8
+	}
+}, {
+	"id": 46,
+	"name": "Villasor (CA)",
+	"latitude": 39.3811,
+	"longitude": 8.9436,
+	"quota": "30",
+	"measure": {
+		"temp": 11.1,
+		"date": "2020-04-01 20:49:00",
+		"tempmax": 18.4,
+		"tempmin": 9.8,
+		"hum": 68,
+		"dp": 5.4,
+		"rain": 0.5,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": "\r\n0.0",
+		"bar": 1013.4
+	}
+}, {
+	"id": 48,
+	"name": "Seui (NU)",
+	"latitude": 39.8395,
+	"longitude": 9.3242,
+	"quota": "820",
+	"measure": {
+		"temp": 4,
+		"date": "2020-04-01 20:49:58",
+		"tempmax": 10.9,
+		"tempmin": 2.6,
+		"hum": 76,
+		"dp": 0,
+		"rain": 0.4,
+		"rainrate": 0,
+		"wspeed": 11.3,
+		"dir": 75,
+		"bar": 1015.6
+	}
+}, {
+	"id": 50,
+	"name": "Separadorgiu (NU)",
+	"latitude": 40.0427,
+	"longitude": 9.3004,
+	"quota": "1440",
+	"measure": {
+		"temp": 4.8,
+		"date": "2020-04-01 20:49:54",
+		"tempmax": 9.7,
+		"tempmin": -2.4,
+		"hum": 78,
+		"dp": 1.1,
+		"rain": 0.4,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 281,
+		"bar": 1017.4
+	}
+}, {
+	"id": 53,
+	"name": "Ovodda (NU)",
+	"latitude": 40.0929,
+	"longitude": 9.1582,
+	"quota": "718",
+	"measure": {
+		"temp": 6.6,
+		"date": "2020-04-01 20:40:00",
+		"tempmax": 11.8,
+		"tempmin": 3.7,
+		"hum": 65,
+		"dp": 0.5,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 67.5,
+		"bar": 1015.3
+	}
+}, {
+	"id": 56,
+	"name": "Fonni (NU)",
+	"latitude": 40.1153,
+	"longitude": 9.2566,
+	"quota": "990",
+	"measure": {
+		"temp": 3.2,
+		"date": "2020-04-01 20:49:38",
+		"tempmax": 9.4,
+		"tempmin": 0.1,
+		"hum": 70,
+		"dp": -1.7,
+		"rain": 0.2,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 192,
+		"bar": 1015.7
+	}
+}, {
+	"id": 57,
+	"name": "Busachi (OR)",
+	"latitude": 40.0326,
+	"longitude": 8.8979,
+	"quota": "403",
+	"measure": {
+		"temp": null,
+		"date": "2020-04-01 20:49:55",
+		"tempmax": null,
+		"tempmin": null,
+		"hum": null,
+		"dp": null,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": null,
+		"dir": "[wind0dir-act]",
+		"bar": 1015.4
+	}
+}, {
+	"id": 58,
+	"name": "Orosei-2 (NU) ",
+	"latitude": 40.359167,
+	"longitude": 9.690556,
+	"quota": "15",
+	"measure": {
+		"temp": 6.9,
+		"date": "2020-04-01 20:50:05",
+		"tempmax": 14.1,
+		"tempmin": 6.9,
+		"hum": 67,
+		"dp": 1.2,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 1.1,
+		"dir": "22",
+		"bar": 1016.4
+	}
+}, {
+	"id": 59,
+	"name": "Tempio (SS)",
+	"latitude": 40.9087,
+	"longitude": 9.0956,
+	"quota": "520",
+	"measure": {
+		"temp": 4.7,
+		"date": "2020-04-01 20:18:00",
+		"tempmax": 9.9,
+		"tempmin": 3.8,
+		"hum": 66,
+		"dp": -1.1,
+		"rain": 0.3,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": null,
+		"bar": 1018.4
+	}
+}, {
+	"id": 60,
+	"name": "Carbonia SE(CA)",
+	"latitude": 39.1629,
+	"longitude": 8.5346,
+	"quota": "111",
+	"measure": {
+		"temp": 12.1,
+		"date": "2020-04-01 20:50:00",
+		"tempmax": 19.2,
+		"tempmin": 11.2,
+		"hum": 77,
+		"dp": 8.1,
+		"rain": 0.5,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": null,
+		"bar": 1013
+	}
+}, {
+	"id": 64,
+	"name": "Fenosu (OR)",
+	"latitude": 39.9052,
+	"longitude": 8.6312,
+	"quota": "15",
+	"measure": {
+		"temp": 12.4,
+		"date": "2020-04-01 20:45:08",
+		"tempmax": 16.1,
+		"tempmin": 9.1,
+		"hum": 48,
+		"dp": 1.7,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 11,
+		"dir": "32",
+		"bar": 1013.3
+	}
+}, {
+	"id": 65,
+	"name": "Bitti (NU)",
+	"latitude": 40.4748,
+	"longitude": 9.3816,
+	"quota": "550",
+	"measure": {
+		"temp": 4.9,
+		"date": "2020-04-01 20:49:59",
+		"tempmax": 9.4,
+		"tempmin": 2.8,
+		"hum": 62,
+		"dp": -1.8,
+		"rain": 0.5,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": null,
+		"bar": 1009
+	}
+}, {
+	"id": 68,
+	"name": "Massiloi (NU)",
+	"latitude": 40.163,
+	"longitude": 9.2814,
+	"quota": "840",
+	"measure": {
+		"temp": 2.7,
+		"date": "2020-04-01 20:49:21",
+		"tempmax": 9.3,
+		"tempmin": 0.6,
+		"hum": 76,
+		"dp": -1.1,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 53,
+		"bar": 1017.1
+	}
+}, {
+	"id": 69,
+	"name": "Barumini (CA)",
+	"latitude": 39.7007,
+	"longitude": 9.004,
+	"quota": "205",
+	"measure": {
+		"temp": 9.1,
+		"date": "2020-04-01 20:49:49",
+		"tempmax": 15.7,
+		"tempmin": 8,
+		"hum": 63,
+		"dp": 2.2,
+		"rain": 0.8,
+		"rainrate": 0,
+		"wspeed": 11.3,
+		"dir": 115,
+		"bar": 1015.1
+	}
+}, {
+	"id": 70,
+	"name": "Tuvixeddu (CA)",
+	"latitude": 39.2252,
+	"longitude": 9.104,
+	"quota": "30",
+	"measure": {
+		"temp": 11.5,
+		"date": "2020-04-01 20:49:48",
+		"tempmax": 16.8,
+		"tempmin": 11.3,
+		"hum": 61,
+		"dp": 3.9,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 12.9,
+		"dir": 62,
+		"bar": 1015.5
+	}
+}, {
+	"id": 72,
+	"name": "Geremeas (CA)",
+	"latitude": 39.1649,
+	"longitude": 9.3869,
+	"quota": "50",
+	"measure": {
+		"temp": 10.2,
+		"date": "2020-04-01 20:48:04",
+		"tempmax": 15.4,
+		"tempmin": 10.1,
+		"hum": 61,
+		"dp": 2.8,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 11.3,
+		"dir": null,
+		"bar": 1014.5
+	}
+}, {
+	"id": 73,
+	"name": "Pedra Bianca (SS)",
+	"latitude": 40.6658,
+	"longitude": 9.5147,
+	"quota": "620",
+	"measure": {
+		"temp": 3.4,
+		"date": "2020-04-01 20:49:38",
+		"tempmax": 9.2,
+		"tempmin": 2.6,
+		"hum": 75,
+		"dp": -0.6,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 84,
+		"bar": 1017
+	}
+}, {
+	"id": 75,
+	"name": "Villa Verde (OR)",
+	"latitude": 39.7949,
+	"longitude": 8.8197,
+	"quota": "210",
+	"measure": {
+		"temp": 10.1,
+		"date": "2020-04-01 20:49:41",
+		"tempmax": 16.4,
+		"tempmin": 7.4,
+		"hum": 63,
+		"dp": 3.3,
+		"rain": 0.6,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 360,
+		"bar": 1016.2
+	}
+}, {
+	"id": 76,
+	"name": "Torre Grande (OR)",
+	"latitude": 39.9057,
+	"longitude": 8.4919,
+	"quota": "10",
+	"measure": {
+		"temp": 12.6,
+		"date": "2020-04-01 20:50:00",
+		"tempmax": 16.2,
+		"tempmin": 9.8,
+		"hum": 53,
+		"dp": 3.3,
+		"rain": 0.4,
+		"rainrate": 0,
+		"wspeed": 15,
+		"dir": "61",
+		"bar": 1014
+	}
+}, {
+	"id": 79,
+	"name": "Laconi Crastu (OR)",
+	"latitude": 39.810137,
+	"longitude": 9.037409,
+	"quota": "327",
+	"measure": {
+		"temp": null,
+		"date": "2020-04-01 20:49:08",
+		"tempmax": -1.4,
+		"tempmin": -1.4,
+		"hum": null,
+		"dp": null,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": null,
+		"dir": "[wind0dir-act]",
+		"bar": 1010.1
+	}
+}, {
+	"id": 80,
+	"name": "Villanova Strisaili (NU)",
+	"latitude": 39.9575,
+	"longitude": 9.4654,
+	"quota": "860",
+	"measure": {
+		"temp": 2.7,
+		"date": "2020-04-01 20:50:23",
+		"tempmax": 8.2,
+		"tempmin": 1.3,
+		"hum": 67,
+		"dp": -2.8,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 1.6,
+		"dir": 139,
+		"bar": 1016.4
+	}
+}, {
+	"id": 81,
+	"name": "Badesi (SS)",
+	"latitude": 40.96,
+	"longitude": 8.88,
+	"quota": "110",
+	"measure": {
+		"temp": 10.2,
+		"date": "2020-04-01 20:50:21",
+		"tempmax": 13.6,
+		"tempmin": 8.1,
+		"hum": 34,
+		"dp": -5,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 2.4,
+		"dir": "68.0",
+		"bar": 1020.3
+	}
+}, {
+	"id": 82,
+	"name": "Silius (CA)",
+	"latitude": 39.5179,
+	"longitude": 9.2961,
+	"quota": "611",
+	"measure": {
+		"temp": 4.8,
+		"date": "2020-04-01 20:49:49",
+		"tempmax": 11.3,
+		"tempmin": 4.4,
+		"hum": 80,
+		"dp": 1.7,
+		"rain": 2.6,
+		"rainrate": 0,
+		"wspeed": 12.9,
+		"dir": 138,
+		"bar": 1014.3
+	}
+}, {
+	"id": 83,
+	"name": "Dorgali (NU)",
+	"latitude": 40.2871,
+	"longitude": 9.5869,
+	"quota": "420",
+	"measure": {
+		"temp": 6.7,
+		"date": "2020-04-01 20:48:00",
+		"tempmax": 11.3,
+		"tempmin": 5.7,
+		"hum": 58,
+		"dp": -1,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": "24.1",
+		"bar": 1018.6
+	}
+}, {
+	"id": 84,
+	"name": "Santa Sofia (OR)",
+	"latitude": 39.8621,
+	"longitude": 9.1214,
+	"quota": "780",
+	"measure": {
+		"temp": 6.8,
+		"date": "2020-04-01 20:14:29",
+		"tempmax": 13.3,
+		"tempmin": 4.4,
+		"hum": 77,
+		"dp": 3.1,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": "59.0",
+		"bar": 1014.8
+	}
+}, {
+	"id": 85,
+	"name": "Carbonia NW (CA)",
+	"latitude": 39.171014,
+	"longitude": 8.515912,
+	"quota": "95",
+	"measure": {
+		"temp": 11.6,
+		"date": "2020-04-01 20:50:16",
+		"tempmax": 19.8,
+		"tempmin": 11.5,
+		"hum": 76,
+		"dp": 7.5,
+		"rain": 0.3,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": "337",
+		"bar": 1013.5
+	}
+}, {
+	"id": 86,
+	"name": "Arbus (CA)",
+	"latitude": 39.5269,
+	"longitude": 8.5988,
+	"quota": "311",
+	"measure": {
+		"temp": 9.7,
+		"date": "2020-04-01 20:50:25",
+		"tempmax": 15.8,
+		"tempmin": 8.5,
+		"hum": 81,
+		"dp": 6.6,
+		"rain": 2.2,
+		"rainrate": 0,
+		"wspeed": 0.4,
+		"dir": "163.0",
+		"bar": 1014.5
+	}
+}, {
+	"id": 88,
+	"name": "Meana Sardo (NU)",
+	"latitude": 39.945,
+	"longitude": 9.0686,
+	"quota": "590",
+	"measure": {
+		"temp": 9.1,
+		"date": "2020-04-01 20:49:33",
+		"tempmax": 14.8,
+		"tempmin": 7.3,
+		"hum": 66,
+		"dp": 2.8,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 236,
+		"bar": 1013.6
+	}
+}, {
+	"id": 89,
+	"name": "Domusnovas (CA)",
+	"latitude": 39.3167,
+	"longitude": 8.65,
+	"quota": "138",
+	"measure": {
+		"temp": 11.2,
+		"date": "2020-04-01 20:42:00",
+		"tempmax": 17.4,
+		"tempmin": 10.8,
+		"hum": 72,
+		"dp": 6.3,
+		"rain": 0,
+		"rainrate": null,
+		"wspeed": 6.4,
+		"dir": "E",
+		"bar": 1014.7
+	}
+}, {
+	"id": 91,
+	"name": "Bosa (OR)",
+	"latitude": 40.2967,
+	"longitude": 8.5,
+	"quota": "20",
+	"measure": {
+		"temp": 12.2,
+		"date": "2020-04-01 20:48:00",
+		"tempmax": 17.2,
+		"tempmin": 9.3,
+		"hum": 46,
+		"dp": 0.9,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 3.2,
+		"dir": "\r\n45.1",
+		"bar": 1015.2
+	}
+}, {
+	"id": 93,
+	"name": "Bultei (SS)",
+	"latitude": 40.4565,
+	"longitude": 9.06139,
+	"quota": "509",
+	"measure": {
+		"temp": 6.4,
+		"date": "2020-04-01 20:49:31",
+		"tempmax": 11.2,
+		"tempmin": 3.9,
+		"hum": 60,
+		"dp": -0.8,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": "59.0",
+		"bar": 1017.4
+	}
+}, {
+	"id": 94,
+	"name": "Sanluri F.Idda (CA)",
+	"latitude": 39.57902,
+	"longitude": 8.89466,
+	"quota": "200",
+	"measure": {
+		"temp": 8.4,
+		"date": "2020-04-01 20:49:13",
+		"tempmax": 17,
+		"tempmin": 7.2,
+		"hum": 74,
+		"dp": 3.9,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 64,
+		"bar": 1016.1
+	}
+}, {
+	"id": 95,
+	"name": "Monte Lusei (NU)",
+	"latitude": 39.8072,
+	"longitude": 9.3266,
+	"quota": "1116",
+	"measure": {
+		"temp": 1.3,
+		"date": "2020-04-01 20:50:34",
+		"tempmax": 7.6,
+		"tempmin": 0.3,
+		"hum": 85,
+		"dp": -1.1,
+		"rain": 0.2,
+		"rainrate": 0,
+		"wspeed": 11.3,
+		"dir": 158,
+		"bar": 1016.1
+	}
+}, {
+	"id": 97,
+	"name": "Valledoria - Elisup. AVIS",
+	"latitude": 40.905035,
+	"longitude": 8.790333,
+	"quota": "100",
+	"measure": {
+		"temp": 9.7,
+		"date": "2020-04-01 20:49:42",
+		"tempmax": 17.1,
+		"tempmin": 5.9,
+		"hum": 45,
+		"dp": -1.7,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 20.9,
+		"dir": 130,
+		"bar": 1013.7
+	}
+}, {
+	"id": 100,
+	"name": "Sassari M.Oro (SS)",
+	"latitude": 40.728522,
+	"longitude": 8.496403,
+	"quota": "120",
+	"measure": {
+		"temp": 9.3,
+		"date": "2020-04-01 20:50:35",
+		"tempmax": 15.5,
+		"tempmin": 6.6,
+		"hum": 48,
+		"dp": -1.1,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 1.6,
+		"dir": 96,
+		"bar": 1015.1
+	}
+}, {
+	"id": 101,
+	"name": "Sorso (SS)",
+	"latitude": 40.782074,
+	"longitude": 8.539647,
+	"quota": "87",
+	"measure": {
+		"temp": 10.6,
+		"date": "2020-04-01 20:49:51",
+		"tempmax": 12.8,
+		"tempmin": 10.6,
+		"hum": 44,
+		"dp": -1.1,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 113,
+		"bar": 1012.5
+	}
+}, {
+	"id": 102,
+	"name": "Cagliari - Piazza d'Armi",
+	"latitude": 39.228134,
+	"longitude": 9.110399,
+	"quota": "20",
+	"measure": {
+		"temp": 10.3,
+		"date": "2020-04-01 20:50:01",
+		"tempmax": 16.3,
+		"tempmin": 10.2,
+		"hum": 62,
+		"dp": 3.3,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 6.4,
+		"dir": 119,
+		"bar": 1013.2
+	}
+}, {
+	"id": 104,
+	"name": "Agro Arzachena (SS)",
+	"latitude": 41.069444,
+	"longitude": 9.386,
+	"quota": "60",
+	"measure": {
+		"temp": 7.1,
+		"date": "2020-04-01 20:45:00",
+		"tempmax": 12.7,
+		"tempmin": 7.1,
+		"hum": 64,
+		"dp": 0.7,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 163,
+		"bar": 1016.3
+	}
+}, {
+	"id": 107,
+	"name": "San Basilio (CA)",
+	"latitude": 39.538124,
+	"longitude": 9.197452,
+	"quota": "400",
+	"measure": {
+		"temp": 6.6,
+		"date": "2020-04-01 20:50:15",
+		"tempmax": 12.2,
+		"tempmin": 6.3,
+		"hum": 72,
+		"dp": 1.7,
+		"rain": 0.8,
+		"rainrate": 0,
+		"wspeed": 22.5,
+		"dir": 115,
+		"bar": 1014.8
+	}
+}, {
+	"id": 108,
+	"name": "S.Nicolo' Gerrei (CA)",
+	"latitude": 39.497757,
+	"longitude": 9.306839,
+	"quota": "390",
+	"measure": {
+		"temp": 6.8,
+		"date": "2020-04-01 20:50:22",
+		"tempmax": 12.6,
+		"tempmin": 5.8,
+		"hum": 73,
+		"dp": 2.2,
+		"rain": 3.4,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 112,
+		"bar": 1016.4
+	}
+}, {
+	"id": 109,
+	"name": "Armungia (CA)",
+	"latitude": 39.522617,
+	"longitude": 9.378663,
+	"quota": "380",
+	"measure": {
+		"temp": 6.4,
+		"date": "2020-04-01 20:50:16",
+		"tempmax": 11.7,
+		"tempmin": 6.4,
+		"hum": 64,
+		"dp": 0,
+		"rain": 0.8,
+		"rainrate": 0,
+		"wspeed": 9.7,
+		"dir": 149,
+		"bar": 1015.9
+	}
+}, {
+	"id": 110,
+	"name": "Ballao (CA)",
+	"latitude": 39.549514,
+	"longitude": 9.362197,
+	"quota": "100",
+	"measure": {
+		"temp": 8.5,
+		"date": "2020-04-01 20:49:50",
+		"tempmax": 14.9,
+		"tempmin": 6.7,
+		"hum": 67,
+		"dp": 2.8,
+		"rain": 1,
+		"rainrate": 0,
+		"wspeed": 1.6,
+		"dir": 148,
+		"bar": 1017.1
+	}
+}, {
+	"id": 111,
+	"name": "Escalaplano (CA)",
+	"latitude": 39.626649,
+	"longitude": 9.353374,
+	"quota": "360",
+	"measure": {
+		"temp": 6.9,
+		"date": "2020-04-01 20:49:45",
+		"tempmax": 12.8,
+		"tempmin": 6.6,
+		"hum": 68,
+		"dp": 1.1,
+		"rain": 0.4,
+		"rainrate": 0,
+		"wspeed": 12.9,
+		"dir": 91,
+		"bar": 1015.4
+	}
+}, {
+	"id": 112,
+	"name": "Dorgali Mte Longu (NU)",
+	"latitude": 40.275289,
+	"longitude": 9.597841,
+	"quota": "455",
+	"measure": {
+		"temp": 5.1,
+		"date": "2020-04-01 20:49:20",
+		"tempmax": 9.8,
+		"tempmin": 5.1,
+		"hum": 66,
+		"dp": -0.7,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": "84.0",
+		"bar": 1016.7
+	}
+}, {
+	"id": 117,
+	"name": "Belvi' F.Frida (NU)",
+	"latitude": 39.964424,
+	"longitude": 9.185235,
+	"quota": "600",
+	"measure": {
+		"temp": 7.8,
+		"date": "2020-04-01 20:50:17",
+		"tempmax": 15.6,
+		"tempmin": 5.8,
+		"hum": 67,
+		"dp": 2.2,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 167,
+		"bar": 1014.9
+	}
+}, {
+	"id": 118,
+	"name": "Loceri (NU)",
+	"latitude": 39.8577,
+	"longitude": 9.5977,
+	"quota": "143",
+	"measure": {
+		"temp": 7.5,
+		"date": "2020-04-01 20:50:33",
+		"tempmax": 12.7,
+		"tempmin": 7.5,
+		"hum": 76,
+		"dp": 3.5,
+		"rain": 0.4,
+		"rainrate": 0,
+		"wspeed": 0.5,
+		"dir": "NNE",
+		"bar": 1016.8
+	}
+}, {
+	"id": 119,
+	"name": "Poggio dei Pini (CA)",
+	"latitude": 39.1503,
+	"longitude": 8.9598,
+	"quota": "130",
+	"measure": {
+		"temp": 8.4,
+		"date": "2020-04-01 20:49:53",
+		"tempmax": 14.3,
+		"tempmin": 8.1,
+		"hum": 77,
+		"dp": 4.4,
+		"rain": 0.4,
+		"rainrate": 0,
+		"wspeed": 3.2,
+		"dir": 207,
+		"bar": 1015.4
+	}
+}, {
+	"id": 120,
+	"name": "Thiesi (SS)",
+	"latitude": 40.523335,
+	"longitude": 8.719089,
+	"quota": "120",
+	"measure": {
+		"temp": 7.3,
+		"date": "2020-04-01 20:50:12",
+		"tempmax": 12.1,
+		"tempmin": 4.8,
+		"hum": 56,
+		"dp": -1.1,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 69,
+		"bar": 1015.4
+	}
+}, {
+	"id": 121,
+	"name": "Uta (CA)",
+	"latitude": 39.284802,
+	"longitude": 8.952219,
+	"quota": "10",
+	"measure": {
+		"temp": 11.1,
+		"date": "2020-04-01 20:50:07",
+		"tempmax": 18,
+		"tempmin": 10.6,
+		"hum": 74,
+		"dp": 6.7,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0,
+		"dir": 146,
+		"bar": 1016
+	}
+}, {
+	"id": 123,
+	"name": " Porto Agumu (CA)",
+	"latitude": 38.989935,
+	"longitude": 8.999588,
+	"quota": "2",
+	"measure": {
+		"temp": 11.9,
+		"date": "2020-04-01 20:50:15",
+		"tempmax": 14,
+		"tempmin": 11.2,
+		"hum": 71,
+		"dp": 6.7,
+		"rain": 0.2,
+		"rainrate": 0,
+		"wspeed": 25.7,
+		"dir": 99,
+		"bar": 1016.5
+	}
+}, {
+	"id": 124,
+	"name": "Ruinas (OR)",
+	"latitude": 39.905805,
+	"longitude": 8.895169,
+	"quota": "355",
+	"measure": {
+		"temp": 9.6,
+		"date": "2020-04-01 20:50:50",
+		"tempmax": 14.8,
+		"tempmin": 7.6,
+		"hum": 65,
+		"dp": 3.3,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 8,
+		"dir": 160,
+		"bar": 1015.2
+	}
+}, {
+	"id": 126,
+	"name": "S.Andrea Frius (CA)",
+	"latitude": 39.476773,
+	"longitude": 9.170248,
+	"quota": "305",
+	"measure": {
+		"temp": 7.3,
+		"date": "2020-04-01 20:49:58",
+		"tempmax": 14.1,
+		"tempmin": 7.1,
+		"hum": 73,
+		"dp": 2.8,
+		"rain": 2.8,
+		"rainrate": 0,
+		"wspeed": 3.2,
+		"dir": 116,
+		"bar": 1015
+	}
+}, {
+	"id": 127,
+	"name": "Samugheo Accoro (OR)",
+	"latitude": 39.965354,
+	"longitude": 8.97732,
+	"quota": "295",
+	"measure": {
+		"temp": 10.7,
+		"date": "2020-04-01 20:45:00",
+		"tempmax": 16.9,
+		"tempmin": 7.9,
+		"hum": 67,
+		"dp": 4.8,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 1.6,
+		"dir": 82,
+		"bar": 1014.3
+	}
+}, {
+	"id": 128,
+	"name": "Asuni P. (OR)",
+	"latitude": 39.86848,
+	"longitude": 8.947207,
+	"quota": "200",
+	"measure": {
+		"temp": 9.1,
+		"date": "2020-04-01 20:50:12",
+		"tempmax": 16.9,
+		"tempmin": 7.3,
+		"hum": 67,
+		"dp": 3.3,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 0.1,
+		"dir": "158.0",
+		"bar": 1011.4
+	}
+}, {
+	"id": 130,
+	"name": "Samugheo Noedda (OR)",
+	"latitude": 39.963655,
+	"longitude": 8.999158,
+	"quota": "284",
+	"measure": {
+		"temp": 10.6,
+		"date": "2020-04-01 20:50:26",
+		"tempmax": 16.8,
+		"tempmin": 8.2,
+		"hum": 68,
+		"dp": 5,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 1.6,
+		"dir": 220,
+		"bar": 1017.7
+	}
+}, {
+	"id": 131,
+	"name": "Genna Silana (NU)",
+	"latitude": 40.158817,
+	"longitude": 9.507523,
+	"quota": "1012",
+	"measure": {
+		"temp": 0.6,
+		"date": "2020-04-01 20:50:22",
+		"tempmax": 6,
+		"tempmin": -0.9,
+		"hum": 85,
+		"dp": -1.7,
+		"rain": 8.8,
+		"rainrate": 0,
+		"wspeed": 1.6,
+		"dir": 174,
+		"bar": 899.8
+	}
+}, {
+	"id": 132,
+	"name": "Aritzo (NU)",
+	"latitude": 39.950361,
+	"longitude": 9.190315,
+	"quota": "820",
+	"measure": {
+		"temp": 6.8,
+		"date": "2020-04-01 20:50:28",
+		"tempmax": 12.3,
+		"tempmin": 3.6,
+		"hum": 76,
+		"dp": 2.8,
+		"rain": 0.8,
+		"rainrate": 0,
+		"wspeed": 1.6,
+		"dir": 152,
+		"bar": 1016.1
+	}
+}, {
+	"id": 133,
+	"name": "Osilo (SS)",
+	"latitude": 40.744012,
+	"longitude": 8.671091,
+	"quota": "640",
+	"measure": {
+		"temp": 5.8,
+		"date": "2020-04-01 20:50:36",
+		"tempmax": 10,
+		"tempmin": 5.8,
+		"hum": 46,
+		"dp": -5,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 11.3,
+		"dir": 104,
+		"bar": 1012.2
+	}
+}, {
+	"id": 134,
+	"name": "Nuoro (NU)",
+	"latitude": 40.30996,
+	"longitude": 9.320513,
+	"quota": "570",
+	"measure": {
+		"temp": 5.2,
+		"date": "2020-04-01 20:49:26",
+		"tempmax": 10.8,
+		"tempmin": 3.8,
+		"hum": 63,
+		"dp": -1.1,
+		"rain": 0,
+		"rainrate": 0,
+		"wspeed": 1.6,
+		"dir": 130,
+		"bar": 949
+	}
+}, {
+	"id": 135,
+	"name": "Serri (CA)",
+	"latitude": 39.702701,
+	"longitude": 9.145974,
+	"quota": "642",
+	"measure": {
+		"temp": 4.6,
+		"date": "2020-04-01 20:50:22",
+		"tempmax": 11.1,
+		"tempmin": 4.1,
+		"hum": 75,
+		"dp": 0.6,
+		"rain": 0.2,
+		"rainrate": 0,
+		"wspeed": 25.7,
+		"dir": 90,
+		"bar": 1014.9
+	}
+}, {
+	"id": 136,
+	"name": "Pranu Sanguni (CA) ",
+	"latitude": 39.48943,
+	"longitude": 9.239518,
+	"quota": "660",
+	"measure": {
+		"temp": 3.8,
+		"date": "2020-04-01 20:50:31",
+		"tempmax": 10.9,
+		"tempmin": 3.2,
+		"hum": 80,
+		"dp": 0.6,
+		"rain": 2.2,
+		"rainrate": 0,
+		"wspeed": 25.7,
+		"dir": 69,
+		"bar": 1016.3
+	}
+}]
