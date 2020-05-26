@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="header"
+   width="169.64703mm"
+   height="70.497215mm"
+   viewBox="0 0 169.64703 70.497215"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="station-curve.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect23"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.28"
+     inkscape:cx="438.51835"
+     inkscape:cy="208.84882"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-224.80304,-78.165948)">
+    <path
+       style="fill:#212e3e;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 97.417969 4.5332031 C 67.639281 4.4397761 37.856126 6.161489 8.2851562 9.6738281 C 8.2503113 9.6596605 8.1804448 9.630005 8.1777344 9.6289062 L -0.0625 10.703125 C -0.34375001 10.765625 -0.00390625 266.46094 -0.00390625 266.46094 L 642.70703 266.69336 C 642.70703 266.69336 640.70577 265.88198 640.69336 265.87695 C 623.28194 245.57727 604.99678 226.02797 585.89844 207.30664 C 565.41193 187.22455 543.98245 168.0823 521.375 150.42188 C 507.02973 139.21568 492.21559 128.61147 477.05273 118.53906 C 461.61996 108.28735 445.82013 98.58432 429.63867 89.560547 C 407.97573 77.479965 385.63405 66.620023 362.7793 56.982422 C 333.71145 44.724826 303.80043 34.440548 273.25586 26.552734 C 254.69496 21.759577 235.90791 17.853153 217.00195 14.683594 C 179.64441 8.4206516 141.8039 5.0363894 103.92773 4.5820312 C 101.75781 4.5560011 99.588039 4.5400115 97.417969 4.5332031 z "
+       transform="matrix(0.26458333,0,0,0.26458333,224.80304,78.165948)"
+       id="path21" />
+  </g>
+</svg>
